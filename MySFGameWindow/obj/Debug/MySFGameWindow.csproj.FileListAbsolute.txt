@@ -1,0 +1,332 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.CreateNewGame.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.DeletePlayer.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Form1.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.LoginPlayer.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.SelectPlayer.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Menu.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Adventure.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Stat.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Glory.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Shop.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Jackpot.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Fight.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Boss.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GloryLevel.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GloryFloor.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.ResolveComReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.NewPassword.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Blacksmith.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.BlackSmithWithWeapon.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.SelectForm.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.exe.config
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.ResolveComReference.cache
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.exe
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.pdb
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.exe
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.pdb
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Adventure.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Blacksmith.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.BlackSmithWithWeapon.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Boss.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.CreateNewGame.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.DeletePlayer.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Fight.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Form1.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Glory.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GloryFloor.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GloryLevel.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Jackpot.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.LoginPlayer.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Menu.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.NewPassword.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Properties.Resources.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.SelectForm.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.SelectPlayer.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Shop.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Stat.resources
+C:\Users\Martin\Dropbox\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Aras.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Bundur.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Elderon.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListAras.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListBundur.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListElderon.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Evolve.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.LoginTrue.resources
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CopyComplete
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.exe.config
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.exe
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\bin\Debug\MySFGameWindow.pdb
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\bin\Debug\Interop.WMPLib.dll
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\bin\Debug\AxInterop.WMPLib.dll
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csprojAssemblyReference.cache
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\Interop.WMPLib.dll
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\AxInterop.WMPLib.dll
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.ResolveComReference.cache
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Adventure.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Aras.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Blacksmith.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.BlackSmithWithWeapon.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Boss.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Bundur.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.CreateNewGame.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.DeletePlayer.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Elderon.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Evolve.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Fight.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Form1.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListAras.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListBundur.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListElderon.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Glory.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GloryFloor.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.GloryLevel.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Jackpot.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.LoginPlayer.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.LoginTrue.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Menu.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.NewPassword.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Properties.Resources.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.SelectForm.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.SelectPlayer.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Shop.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.Stat.resources
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.GenerateResource.cache
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CoreCompileInputs.cache
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CopyComplete
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.exe
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.pdb
+D:\2017_Visual_studio_projekty\MySFGameWindow\MySFGameWindow\obj\Debug\MySFGameWindow.ContactForm.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\bin\Debug\MySFGameWindow.exe.config
+C:\Users\Martin\Desktop\sf\MySFGameWindow\bin\Debug\MySFGameWindow.exe
+C:\Users\Martin\Desktop\sf\MySFGameWindow\bin\Debug\MySFGameWindow.pdb
+C:\Users\Martin\Desktop\sf\MySFGameWindow\bin\Debug\Interop.WMPLib.dll
+C:\Users\Martin\Desktop\sf\MySFGameWindow\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\Interop.WMPLib.dll
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.ResolveComReference.cache
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Adventure.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Aras.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Blacksmith.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.BlackSmithWithWeapon.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Boss.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Bundur.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.ContactForm.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.CreateNewGame.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.DeletePlayer.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Elderon.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Evolve.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Fight.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Form1.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListAras.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListBundur.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.GiveListElderon.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Glory.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.GloryFloor.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.GloryLevel.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Jackpot.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.LoginPlayer.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.LoginTrue.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Menu.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.NewPassword.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Properties.Resources.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.SelectForm.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.SelectPlayer.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Shop.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.Stat.resources
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CopyComplete
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.exe
+C:\Users\Martin\Desktop\sf\MySFGameWindow\obj\Debug\MySFGameWindow.pdb
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\MySFGameWindow.exe.config
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\MySFGameWindow.exe
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\MySFGameWindow.pdb
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\Interop.WMPLib.dll
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\AxInterop.WMPLib.dll
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csprojAssemblyReference.cache
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\Interop.WMPLib.dll
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\AxInterop.WMPLib.dll
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.ResolveComReference.cache
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Adventure.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Aras.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Blacksmith.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.BlackSmithWithWeapon.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Boss.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Bundur.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.ContactForm.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.CreateNewGame.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.DeletePlayer.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Elderon.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Evolve.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Fight.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Form1.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Glory.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.GloryFloor.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.GloryLevel.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Jackpot.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.LoginTrue.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Menu.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.NewPassword.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Properties.Resources.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.SelectForm.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.SelectPlayer.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Shop.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Stat.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.GenerateResource.cache
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CoreCompileInputs.cache
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CopyComplete
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.exe
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.pdb
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.BlackJackGameForm.resources
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.MiniGamesForm.resources
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.RockScissorsPaperForm.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.FeedBackForm.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\MessagingToolkit.QRCode.dll
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\QRCoder.dll
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\bin\Debug\System.Drawing.Common.dll
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.QR_Form.resources
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.CreateOrderWindow.resources
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Market.resources
+D:\2017_Visual_studio_projekty\My_Sf_upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.DetailOrderWindow.resources
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Inventory.resources
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignColors.dll
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialSkin.dll
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignColors.pdb
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2017_Visual_studio_projekty\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MySFGameWindow.exe.config
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MySFGameWindow.exe
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MySFGameWindow.pdb
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignColors.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialSkin.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\QRCoder.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\System.Drawing.Common.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\Interop.WMPLib.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csprojAssemblyReference.cache
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\Interop.WMPLib.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.ResolveComReference.cache
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Adventure.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Aras.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.BlackJackGameForm.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Blacksmith.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.BlackSmithWithWeapon.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Boss.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Bundur.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.ContactForm.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.CreateNewGame.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.CreateOrderWindow.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.DeletePlayer.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.DetailOrderWindow.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Elderon.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Evolve.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.FeedBackForm.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Fight.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Form1.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Glory.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.GloryFloor.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.GloryLevel.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Inventory.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Jackpot.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.LoginTrue.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Market.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Menu.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.MiniGamesForm.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.NewPassword.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Properties.Resources.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.QR_Form.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.RockScissorsPaperForm.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.SelectForm.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.SelectPlayer.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Shop.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.Stat.resources
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.GenerateResource.cache
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CoreCompileInputs.cache
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CopyComplete
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.exe
+C:\Users\m_hru\Desktop\My_Sf_Upgrade\MySFGameWindow\obj\Debug\MySFGameWindow.pdb
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MySFGameWindow.exe.config
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MySFGameWindow.exe
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MySFGameWindow.pdb
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MaterialDesignColors.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MaterialSkin.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\QRCoder.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\System.Drawing.Common.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\Interop.WMPLib.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.csprojAssemblyReference.cache
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\Interop.WMPLib.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.ResolveComReference.cache
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Adventure.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Aras.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.BlackJackGameForm.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Blacksmith.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.BlackSmithWithWeapon.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Boss.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Bundur.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.ContactForm.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.CreateNewGame.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.CreateOrderWindow.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.DeletePlayer.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.DetailOrderWindow.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Elderon.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Evolve.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.FeedBackForm.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Fight.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Form1.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Glory.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.GloryFloor.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.GloryLevel.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Inventory.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Jackpot.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.LoginTrue.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Market.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Menu.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.MiniGamesForm.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.NewPassword.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Properties.Resources.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.QR_Form.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.RockScissorsPaperForm.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.SelectForm.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.SelectPlayer.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Shop.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.Stat.resources
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.GenerateResource.cache
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CoreCompileInputs.cache
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.csproj.CopyComplete
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.exe
+C:\Users\m_hru\Desktop\game\MySFGameWindow\obj\Debug\MySFGameWindow.pdb
