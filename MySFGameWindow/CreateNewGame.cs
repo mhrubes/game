@@ -22,7 +22,6 @@ namespace MySFGameWindow
     {
         string playerName;
         SourceClass source = new SourceClass();
-
         public CreateNewGame()
         {
             InitializeComponent();
@@ -111,7 +110,7 @@ namespace MySFGameWindow
                         try
                         {
                             // Need Change A Road
-                            pictureBox1.Image.Save(source.source + $"@" + source.folderName + $@"\MySFGameWindow\Qr_codes\{playerName}.png", System.Drawing.Imaging.ImageFormat.Png);
+                            pictureBox1.Image.Save(source.source + $@"{source.folderName}\MySFGameWindow\Qr_codes\{playerName}.png", System.Drawing.Imaging.ImageFormat.Png);
                         }
                         catch (Exception err)
                         {
@@ -217,11 +216,11 @@ namespace MySFGameWindow
             try
             {
                 // Need Change A Road
-                if (charBox.Text == "Válečník") chooseCharPictureMethod(source.source + @"My_Sf_Upgrade\MySFGameWindow\charPictures\warrior.png");
-                else if (charBox.Text == "Lovec") chooseCharPictureMethod(source.source + @"My_Sf_Upgrade\MySFGameWindow\charPictures\hunter.png");
-                else if (charBox.Text == "Kouzelník") chooseCharPictureMethod(source.source + @"My_Sf_Upgrade\MySFGameWindow\charPictures\mage.png");
-                else if (charBox.Text == "Alchymista") chooseCharPictureMethod(source.source + @"My_Sf_Upgrade\MySFGameWindow\charPictures\alchemist.png");
-                else if (charBox.Text == "Lord") chooseCharPictureMethod(source.source + @"My_Sf_Upgrade\MySFGameWindow\charPictures\lord.png");
+                if (charBox.Text == "Válečník") chooseCharPictureMethod(source.source + $@"{source.folderName}\MySFGameWindow\charPictures\warrior.png");
+                else if (charBox.Text == "Lovec") chooseCharPictureMethod(source.source + $@"{source.folderName}\MySFGameWindow\charPictures\hunter.png");
+                else if (charBox.Text == "Kouzelník") chooseCharPictureMethod(source.source + $@"{source.folderName}\MySFGameWindow\charPictures\mage.png");
+                else if (charBox.Text == "Alchymista") chooseCharPictureMethod(source.source + $@"{source.folderName}\MySFGameWindow\charPictures\alchemist.png");
+                else if (charBox.Text == "Lord") chooseCharPictureMethod(source.source + $@"{source.folderName}\MySFGameWindow\charPictures\lord.png");
                 else if (charBox.Text == "") charPictureBox.BackColor = Color.Transparent;
             }
             catch (Exception)

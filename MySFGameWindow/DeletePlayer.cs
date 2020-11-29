@@ -152,7 +152,7 @@ namespace MySFGameWindow
                         File.WriteAllLines("wool.txt", wool.ToArray());
 
                         // Need Change A Road
-                        var filePath = source.source + $@"My_Sf_upgrade\MySFGameWindow\Qr_codes\{playerNamePicture}.png";
+                        var filePath = source.source + $@"{source.folderName}\MySFGameWindow\Qr_codes\{playerNamePicture}.png";
                         try
                         {
                             File.Delete(filePath);
