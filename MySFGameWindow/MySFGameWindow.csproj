@@ -253,6 +253,7 @@
     <Compile Include="RockScissorsPaperForm.Designer.cs">
       <DependentUpon>RockScissorsPaperForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SecurePasswordHasher.cs" />
     <Compile Include="SelectForm.cs">
       <SubType>Form</SubType>
     </Compile>

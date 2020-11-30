@@ -30,12 +30,23 @@ namespace MySFGameWindow
             string oldPassword = oldPasswordBOX.Text;
             string newPassword = newPasswordBOX.Text;
 
-            if (playerPassword[selected] == oldPassword)
+            var decrypt = "";
+            try
             {
-                if (newPassword != "" && newPassword != oldPassword)
+              decrypt = SecurePasswordHasher.Decrypt(playerPassword[selected]);
+            }
+            catch (Exception)
+            {
+            }
+
+            if (decrypt == oldPassword)
+            {
+                if (newPassword != "" && newPassword != decrypt)
                 {
+                    var encrypt = SecurePasswordHasher.Encrypt(newPassword);
+
                     playerPassword.RemoveAt(selected);
-                    playerPassword.Insert(selected, newPassword);
+                    playerPassword.Insert(selected, encrypt);
 
                     File.WriteAllLines("passwordP.txt", playerPassword.ToArray());
 
@@ -60,10 +71,6 @@ namespace MySFGameWindow
             this.Hide();
             Stat stat = new Stat();
             stat.Show();
-        }
-
-        private void NewPassword_Load(object sender, EventArgs e)
-        {
         }
 
         private void NewPassword_FormClosing(object sender, FormClosingEventArgs e)

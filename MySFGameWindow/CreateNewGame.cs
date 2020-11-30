@@ -47,6 +47,8 @@ namespace MySFGameWindow
             playerName = nameBOX.Text;
             string playerPassword = passwordBOX.Text;
 
+            var hash = SecurePasswordHasher.Encrypt(playerPassword);
+
             string selectChar = charBox.Text;
             if (selectChar == "Válečník") selectChar = "Valecnik";
             else if (selectChar == "Kouzelník") selectChar = "Kouzelnik";
@@ -66,7 +68,7 @@ namespace MySFGameWindow
                         string splitTime = time.Substring(0, 10);
 
                         using (StreamWriter sw = new StreamWriter("nameP.txt", true)) sw.WriteLine(playerName);
-                        using (StreamWriter sw = new StreamWriter("passwordP.txt", true)) sw.WriteLine(playerPassword);
+                        using (StreamWriter sw = new StreamWriter("passwordP.txt", true)) sw.WriteLine(hash);
                         using (StreamWriter sw = new StreamWriter("scoreP.txt", true)) sw.WriteLine(0);
 
                         if (selectChar == "Lovec") using (StreamWriter sw = new StreamWriter("moneyP.txt", true)) sw.WriteLine(100);

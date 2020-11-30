@@ -77,7 +77,16 @@ namespace MySFGameWindow
                     double removeWeaponDay = int.Parse(weaponRemain[selected]);
                     int random = 0;
 
-                    if (playerList[selected] == name && playerPassword[selected] == password)
+                    var decrypt = "";
+                    try
+                    {
+                      decrypt = SecurePasswordHasher.Decrypt(playerPassword[selected]);
+                    }
+                    catch (Exception)
+                    {
+                    }
+
+                    if (playerList[selected] == name && decrypt == password)
                     {
                         if (playerLastLog[selected] != splitTime)
                         {

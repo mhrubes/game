@@ -21,14 +21,14 @@ namespace MySFGameWindow
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            if (bar.Value < 100)
+            if (bar.Value <= 40)
             {
                 bar.Value += dir;
 
-                if (bar.Value == 0 || bar.Value == 20 || bar.Value == 40 || bar.Value == 60 || bar.Value == 80 || bar.Value == 100) selectColorMethod(Color.SeaGreen, 15);
+                if (bar.Value == 0 || bar.Value == 20 || bar.Value == 40) selectColorMethod(Color.SeaGreen, 20);
                 else selectColorMethod(Color.DeepSkyBlue, 20);
             }
-            if (bar.Value == 100)
+            if (bar.Value == 40)
             {
                 this.Close();
 

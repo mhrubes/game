@@ -158,7 +158,12 @@ namespace MySFGameWindow
         }
 
         // Evolve Button
-        private void evolveHelpBTN_Click(object sender, EventArgs e) => MessageBox.Show("Evolve 1 \n• Odemknutí povolání 'Lord' \nZískání bonusů z království od levelu 1 \n• Snížený čas v dobrodružství na polovinu Od levelu '20' \n\nEvolve 2 \n• Dvojnásobná doba zbraně při nákupu \n• Zvýšený čas v Challenge o 5 vteřin \n\nEvolve 3 \n• Bonus k penězům za výpravu \n\nEvolve 4 \n• Bonus ke zkušenostem za výpravu \n\nEvolve 5 \n• Snížený čas v dobrodružství na polovinu Od levelu '10' \n\nEvolve 10 \n• Bonus k surovinám za výpravu od levelu 1");
+        private void evolveHelpBTN_Click(object sender, EventArgs e) => MessageBox.Show(
+          "Evolve 1 \n• Odemknutí povolání 'Lord' \nZískání bonusů z království od levelu 1 \n• Snížený čas v dobrodružství na polovinu Od levelu '20' " +
+          "\n\nEvolve 2 \n• Dvojnásobná doba zbraně při nákupu \n• Zvýšený čas v Challenge o 5 vteřin " +
+          "\n\nEvolve 3 \n• Bonus k penězům za výpravu " +
+          "\n\nEvolve 4 \n• Bonus ke zkušenostem za výpravu " +
+          "\n\nEvolve 5 \n• Snížený čas v dobrodružství na polovinu Od levelu '10' \n\nEvolve 10 \n• Bonus k surovinám za výpravu od levelu 1 \n• Odemknutí povolání Paladin");
 
         private void timer1_Tick(object sender, EventArgs e)
         {

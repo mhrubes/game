@@ -93,7 +93,16 @@ namespace MySFGameWindow
                 {
                 }
 
-                if (playerName[selected] == name && playerPassword[selected] == password)
+                var decrypt = "";
+                try
+                {
+                  decrypt = SecurePasswordHasher.Decrypt(playerPassword[selected]);
+                }
+                catch (Exception)
+                {
+                }
+
+                if (playerName[selected] == name && decrypt == password)
                 {
                     if (dialog == DialogResult.Yes)
                     {

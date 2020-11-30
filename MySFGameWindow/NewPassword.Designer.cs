@@ -125,7 +125,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "NewPasswod";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.NewPassword_FormClosing);
-            this.Load += new System.EventHandler(this.NewPassword_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

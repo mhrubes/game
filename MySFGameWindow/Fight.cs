@@ -16,7 +16,7 @@ namespace MySFGameWindow
 {
     public partial class Fight : Form
     {
-        WindowsMediaPlayer playerLevelUp = new WindowsMediaPlayer();
+        //WindowsMediaPlayer playerLevelUp = new WindowsMediaPlayer();
 
         int remainingTime;
         int bossHP;
@@ -36,8 +36,8 @@ namespace MySFGameWindow
         public Fight()
         {
             InitializeComponent();
-            playerLevelUp.URL = "levelUpSong.mp3";
-            playerLevelUp.controls.stop();
+            //playerLevelUp.URL = "levelUpSong.mp3";
+            //playerLevelUp.controls.stop();
 
             List<string> playerLevel = new List<string>(File.ReadAllLines("levelP.txt"));
             List<string> playerScore = new List<string>(File.ReadAllLines("scoreP.txt"));
@@ -93,7 +93,7 @@ namespace MySFGameWindow
         {
             if (remainingTime != 0)
             {
-                playerLevelUp.controls.stop();
+                //playerLevelUp.controls.stop();
                 remainingTime--;
                 timeBox.Text = remainingTime.ToString();
                 liveBox.Text = hp.ToString();
@@ -153,7 +153,7 @@ namespace MySFGameWindow
                                 actuallScore += 300;
                             }
 
-                            playerLevelUp.controls.play();
+                            //playerLevelUp.controls.play();
                             MessageBox.Show("Získali jste nový level");
 
                             level++;
@@ -190,7 +190,7 @@ namespace MySFGameWindow
                     }
                     else
                     {
-                        playerLevelUp.controls.stop();
+                        //playerLevelUp.controls.stop();
                         actuallFloor++;
                         actuallBossesHP = bossHP * 2;
                         actuallMoney += money;
@@ -216,7 +216,7 @@ namespace MySFGameWindow
             }
             if (remainingTime == 0 && progressBar1.Value >= 0)
             {
-                playerLevelUp.controls.stop();
+                //playerLevelUp.controls.stop();
                 timer1.Stop();
                 attackBTN.Hide();
                 backBTN.Show();
@@ -249,7 +249,7 @@ namespace MySFGameWindow
         // Back Button
         private void backBTN_Click(object sender, EventArgs e)
         {
-            playerLevelUp.controls.stop();
+            //playerLevelUp.controls.stop();
             this.Close();
             Menu menu = new Menu();
             menu.Show();
