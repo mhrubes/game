@@ -208,7 +208,7 @@ namespace MySFGameWindow
         {
             try
             {
-                computer = rnd.Next(0, 2);
+                computer = rnd.Next(0, 2 + 1);
                 for (int i = 0; i < 5; i++)
                 {
                     switch (computer)
