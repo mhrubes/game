@@ -13,8 +13,10 @@ using System.IO;
 
 namespace MySFGameWindow
 {
-    public partial class RockScissorsPaperForm : Form
+  public partial class RockScissorsPaperForm : Form
     {
+        SourceClass source = new SourceClass();
+
         Random rnd = new Random();
         int chips;
         static int bet;
@@ -126,7 +128,7 @@ namespace MySFGameWindow
             {
                 rockBTN.Enabled = false;
 
-                playerPictureBox.Image = new Bitmap(@"D:\2017_Visual_studio_projekty\RockPaperScissors\RockPaperScissors\picture\rock.jpg");
+                playerPictureBox.Image = new Bitmap(source.source + source.folderName + @"\MySFGameWindow\pictures\rock.jpg");
                 playerPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
                 playerChoice = "kámen";
 
@@ -145,7 +147,7 @@ namespace MySFGameWindow
             {
                 scissorsBTN.Enabled = false;
 
-                playerPictureBox.Image = new Bitmap(@"D:\2017_Visual_studio_projekty\RockPaperScissors\RockPaperScissors\picture\scissors.jpg");
+                playerPictureBox.Image = new Bitmap(source.source + source.folderName + @"\MySFGameWindow\pictures\scissors.jpg");
                 playerPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
                 playerChoice = "nůžky";
 
@@ -164,7 +166,7 @@ namespace MySFGameWindow
             {
                 paperBTN.Enabled = false;
 
-                playerPictureBox.Image = new Bitmap(@"D:\2017_Visual_studio_projekty\RockPaperScissors\RockPaperScissors\picture\Paper.jpg");
+                playerPictureBox.Image = new Bitmap(source.source + source.folderName + @"\MySFGameWindow\pictures\paper.jpg");
                 playerPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
                 playerChoice = "papír";
 
@@ -206,25 +208,25 @@ namespace MySFGameWindow
         {
             try
             {
-                computer = rnd.Next(0, 3);
+                computer = rnd.Next(0, 2);
                 for (int i = 0; i < 5; i++)
                 {
                     switch (computer)
                     {
                         case 0:
-                            aiPictureBox.Image = new Bitmap(@"D:\2017_Visual_studio_projekty\RockPaperScissors\RockPaperScissors\picture\rock.jpg");
+                            aiPictureBox.Image = new Bitmap(source.source + source.folderName + @"\MySFGameWindow\pictures\rock.jpg");
                             aiPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
                             computerChoice = "kámen";
                             break;
 
                         case 1:
-                            aiPictureBox.Image = new Bitmap(@"D:\2017_Visual_studio_projekty\RockPaperScissors\RockPaperScissors\picture\scissors.jpg");
+                            aiPictureBox.Image = new Bitmap(source.source + source.folderName + @"\MySFGameWindow\pictures\scissors.jpg");
                             aiPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
                             computerChoice = "nůžky";
                             break;
 
                         case 2:
-                            aiPictureBox.Image = new Bitmap(@"D:\2017_Visual_studio_projekty\RockPaperScissors\RockPaperScissors\picture\Paper.jpg");
+                            aiPictureBox.Image = new Bitmap(source.source + source.folderName + @"\MySFGameWindow\pictures\paper.jpg");
                             aiPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
                             computerChoice = "papír";
                             break;
@@ -233,7 +235,7 @@ namespace MySFGameWindow
             }
             catch (Exception)
             {
-                rescueMethod();
+              rescueMethod();
             }
         }
 
